@@ -37,12 +37,6 @@ npm run dev
 2. Iniciar el frontend (`npm run dev`).
 3. Acceder a `http://localhost:5173` para probar la aplicación.
 
-## Notas de Seguridad ⚠️
-Este proyecto **es únicamente para fines educativos**. No debe utilizarse en entornos de producción ni para actividades ilegales. **SQL Injection es una vulnerabilidad grave** y su explotación puede comprometer datos sensibles.
 
-## Licencia
-MIT License - Puedes usarlo con fines educativos pero bajo tu propia responsabilidad.
 
-## Autor
-Creado por **David Fajardo LEVEL4**.
 
